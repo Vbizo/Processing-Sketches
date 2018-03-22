@@ -1,10 +1,12 @@
 # Processing-Sketches
 Excersize A 
 
-![House Sketch](https://github.com/Vbizo/Processing-Sketches/blob/master/House%20Sketch.PNG)
+![Exercise 1](https://github.com/Vbizo/Processing-Sketches/blob/master/Exercise%201.PNG)
 
-![Circle Sketch](https://github.com/Vbizo/Processing-Sketches/blob/master/Circle%20Sketch.PNG)
+![Exercise 2](https://github.com/Vbizo/Processing-Sketches/blob/master/Exercise%202.PNG)
 
-![Rainbow Sketch](https://github.com/Vbizo/Processing-Sketches/blob/master/Rainbow.PNG)
+![Exercise 3](https://github.com/Vbizo/Processing-Sketches/blob/master/Exercise%203.PNG)
 
-![ColorMode Sketch](https://github.com/Vbizo/Processing-Sketches/blob/master/ColorMode_Sketch.PNG)
+![Exercise 4](https://github.com/Vbizo/Processing-Sketches/blob/master/Exercise%204.PNG)
+
+![Exercise 5](https://github.com/Vbizo/Processing-Sketches/blob/master/Exercise%205.PNG)
