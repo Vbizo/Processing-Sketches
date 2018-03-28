@@ -9,6 +9,6 @@ Excersize A
 
 ![Exercise 4](https://github.com/Vbizo/Processing-Sketches/blob/master/Exercise%204.PNG)
 
-![Exercise 5](https://github.com/Vbizo/Processing-Sketches/blob/master/Exercise%205.PNG)
+![Exercise 5](https://github.com/Vbizo/Processing-Sketches/blob/master/Gif-Exercise%205.gif)
 
 ![Exercise 5](https://github.com/Vbizo/Processing-Sketches/blob/master/Gif-Exercise%206.gif)
