@@ -12,3 +12,5 @@ Excersize A
 ![Exercise 5](https://github.com/Vbizo/Processing-Sketches/blob/master/Gif-Exercise%205.gif)
 
 ![Exercise 5](https://github.com/Vbizo/Processing-Sketches/blob/master/Gif-Exercise%206.gif)
+
+![Exercise 5](https://github.com/Vbizo/Processing-Sketches/blob/master/Exercise%207.PNG)
