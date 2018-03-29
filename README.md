@@ -7,7 +7,7 @@ Excersize A
 
 ![Exercise 3](https://github.com/Vbizo/Processing-Sketches/blob/master/Exercise%203.PNG)
 
-![Exercise 4](https://github.com/Vbizo/Processing-Sketches/blob/master/Exercise%204.PNG)
+![Exercise 4](https://github.com/Vbizo/Processing-Sketches/blob/master/Gif-Exercise%204.gif)
 
 ![Exercise 5](https://github.com/Vbizo/Processing-Sketches/blob/master/Gif-Exercise%205.gif)
 
